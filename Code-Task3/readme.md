@@ -1,5 +1,3 @@
----
-
 ### 🔷 Task 3: Consensus Mechanism Simulation
 
 **Objective:**  
