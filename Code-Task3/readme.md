@@ -29,9 +29,9 @@ Understand and compare the **decision-making processes** used in various blockch
 
 Please submit a GitHub repository or folder that includes the following files:
 
-- `blockchain_simulation.py` or `.js` → basic blockchain with 3 linked blocks  
-- `mining_simulation.py` or `.js` → Proof-of-Work mining simulation  
-- `consensus_demo.py` or `.js` → Consensus mechanism (PoW, PoS, DPoS) logic
+- `blockchain_simulation.py` → basic blockchain with 3 linked blocks  
+- `mining_simulation.py` → Proof-of-Work mining simulation  
+- `consensus_demo.py` → Consensus mechanism (PoW, PoS, DPoS) logic
 
 ### Output:
 
