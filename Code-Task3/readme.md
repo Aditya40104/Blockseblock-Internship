@@ -18,11 +18,4 @@ Simulate and compare **Proof of Work (PoW)**, **Proof of Stake (PoS)**, and **De
 - Print the selected validator and the consensus method used.
 - Use `console.log()` or `print()` statements to explain how each selection was made.
 
-**🎯 Goal:**  
-Understand and compare the **decision-making processes** used in various blockchain consensus mechanisms such as PoW, PoS, and DPoS.
-
----
-
-### Output:
-
 ![alt text](image.png)
